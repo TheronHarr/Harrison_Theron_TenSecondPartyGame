@@ -438,8 +438,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1, y: 42}
-  m_SizeDelta: {x: 305.6, y: 64}
+  m_AnchoredPosition: {x: 62.92, y: 20.41}
+  m_SizeDelta: {x: 433.44, y: 107.19}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1275688425
 MonoBehaviour:
@@ -484,7 +484,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Dodge the Cubes!
+  m_Text: Dodge the Cubes! A and D or Left and Right!
 --- !u!222 &1275688427
 CanvasRenderer:
   m_ObjectHideFlags: 0
